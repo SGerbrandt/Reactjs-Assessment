@@ -1,0 +1,214 @@
+{
+  "count": 2,
+  "value": [
+      {
+          "advancedSettings": {
+              "slotIQ": false,
+              "softLoad": true
+          },
+          "drives": [
+              {
+                  "address": 256,
+                  "drivePath": "1:1:1",
+                  "location": {
+                      "chamber": 1,
+                      "dba": 1,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 257,
+                  "drivePath": "1:1:2",
+                  "location": {
+                      "chamber": 2,
+                      "dba": 1,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 258,
+                  "drivePath": "1:1:3",
+                  "location": {
+                      "chamber": 3,
+                      "dba": 1,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 259,
+                  "drivePath": "1:1:4",
+                  "location": {
+                      "chamber": 4,
+                      "dba": 1,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 260,
+                  "drivePath": "1:2:1",
+                  "location": {
+                      "chamber": 1,
+                      "dba": 2,
+                      "frame": 1
+                  },
+                  "mediaBarcode": "417618L5",
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition",
+                  "physicalDrive": {
+                      "firmware": "KAJ8",
+                      "manufacturerSerialNum": "1068015616",
+                      "patchLevel": "Unavailable",
+                      "product": "ULTRIUM-TD6",
+                      "serialNum": "1021001EB2",
+                      "vendor": "IBM",
+                      "wwn": "21 21 00 90 A5 00 1E B2"
+                  }
+              },
+              {
+                  "address": 261,
+                  "drivePath": "1:2:2",
+                  "location": {
+                      "chamber": 2,
+                      "dba": 2,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 262,
+                  "drivePath": "1:2:3",
+                  "location": {
+                      "chamber": 3,
+                      "dba": 2,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 263,
+                  "drivePath": "1:2:4",
+                  "location": {
+                      "chamber": 4,
+                      "dba": 2,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 264,
+                  "drivePath": "1:3:1",
+                  "location": {
+                      "chamber": 1,
+                      "dba": 3,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 265,
+                  "drivePath": "1:3:2",
+                  "location": {
+                      "chamber": 2,
+                      "dba": 3,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 266,
+                  "drivePath": "1:3:3",
+                  "location": {
+                      "chamber": 3,
+                      "dba": 3,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 267,
+                  "drivePath": "1:3:4",
+                  "location": {
+                      "chamber": 4,
+                      "dba": 3,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 268,
+                  "drivePath": "1:4:1",
+                  "location": {
+                      "chamber": 1,
+                      "dba": 4,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 269,
+                  "drivePath": "1:4:2",
+                  "location": {
+                      "chamber": 2,
+                      "dba": 4,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 270,
+                  "drivePath": "1:4:3",
+                  "location": {
+                      "chamber": 3,
+                      "dba": 4,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              },
+              {
+                  "address": 271,
+                  "drivePath": "1:4:4",
+                  "location": {
+                      "chamber": 4,
+                      "dba": 4,
+                      "frame": 1
+                  },
+                  "mediaType": "LTO",
+                  "partition": "Auto Partition"
+              }
+          ],
+          "entryExitDrawers": 0,
+          "mediaType": "LTO",
+          "name": "Auto Partition",
+          "storageDrawers": 167
+      },
+      {
+          "advancedSettings": {
+              "slotIQ": false,
+              "softLoad": false
+          },
+          "drives": [],
+          "entryExitDrawers": 0,
+          "mediaType": "LTO_CLEAN",
+          "name": "Auto Cleaning Partition",
+          "storageDrawers": 167
+      }
+  ]
+}
